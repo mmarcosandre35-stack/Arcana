@@ -2,7 +2,7 @@
 
 ## 📌 Descrição do Projeto
 
-O RPG Digital é um sistema desenvolvido para permitir a criação e gerenciamento de personagens em um ambiente de jogo de RPG online. A plataforma possibilita o cadastro de usuários, criação de personagens com atributos personalizados, organização de campanhas e interação entre jogadores.
+Arcana é um sistema desenvolvido para permitir a criação e gerenciamento de personagens em um ambiente de jogo de RPG online. A plataforma possibilita o cadastro de usuários, criação de personagens com atributos personalizados, organização de campanhas e interação entre jogadores.
 
 O objetivo do sistema é oferecer uma solução digital organizada e intuitiva para facilitar a experiência de jogadores e mestres de RPG.
 
