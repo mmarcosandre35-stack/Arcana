@@ -1,4 +1,4 @@
-# RPG Digital
+# Arcana
 
 ## 📌 Descrição do Projeto
 
